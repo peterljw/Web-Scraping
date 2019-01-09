@@ -1,0 +1,199 @@
+,City,Name,Rating
+1,San Jose,Mitsuwa Marketplace,4
+2,San Jose,House of Genji,3.5
+3,San Jose,Hokkaido Ramen Santouka,4
+4,San Jose,Porco Ramen,4
+5,San Jose,Ozu Ramen Kitchen,3.5
+6,San Jose,Orenchi Ramen,4
+7,San Jose,Ramen Nagi,4.5
+8,San Jose,Masa Ramen Noodle Bar,4
+9,San Jose,Ramen Taka,4
+10,San Jose,Ramen Nagi,4.5
+11,San Jose,SEIKI HOUSE,4
+12,San Jose,Kahoo Ramen,3.5
+13,San Jose,Buddy Teahouse,4
+14,San Jose,Men-Bei Ramen,4
+15,San Jose,Kokoro Ramen,4
+16,San Jose,Mori Kitchen,3.5
+17,San Jose,JINYA Ramen Bar,3.5
+18,San Jose,Myzen Ramen,4
+19,San Jose,Ramen Tenma,4
+20,San Jose,Obu Ramen House,3.5
+21,San Jose,Kumako,3
+22,San Jose,What The Cup,3.5
+23,San Jose,Kotetsu,3.5
+24,San Jose,Mitsuwa Marketplace,4
+25,San Jose,The Place Japanese Fusion Bistro,4
+26,San Jose,Ramen Seas,4
+27,San Jose,Uzumakiya Udon,4
+28,San Jose,Dan Izakaya Restaurant,4
+29,San Jose,Orenchi Ramen,4
+30,San Jose,Yugo Ramen,4
+31,San Jose,SEIKI HOUSE,4
+32,San Jose,Juban Ramen & Tapas,4
+33,San Jose,Big T’s Seafood,4
+34,San Jose,Mitsuwa Marketplace,4
+35,San Jose,House of Genji,3.5
+36,San Jose,Hokkaido Ramen Santouka,4
+37,San Jose,Porco Ramen,4
+38,San Jose,Ozu Ramen Kitchen,3.5
+39,San Jose,Orenchi Ramen,4
+40,San Jose,Ramen Nagi,4.5
+41,San Jose,Masa Ramen Noodle Bar,4
+42,San Jose,Ramen Taka,4
+43,San Jose,Ramen Nagi,4.5
+44,San Jose,SEIKI HOUSE,4
+45,San Jose,Kahoo Ramen,3.5
+46,San Jose,Buddy Teahouse,4
+47,San Jose,Men-Bei Ramen,4
+48,San Jose,Kokoro Ramen,4
+49,San Jose,Mori Kitchen,3.5
+50,San Jose,JINYA Ramen Bar,3.5
+51,San Jose,Myzen Ramen,4
+52,San Jose,Ramen Tenma,4
+53,San Jose,Obu Ramen House,3.5
+54,San Jose,Kumako,3
+55,San Jose,What The Cup,3.5
+56,San Jose,Kotetsu,3.5
+57,San Jose,Mitsuwa Marketplace,4
+58,San Jose,The Place Japanese Fusion Bistro,4
+59,San Jose,Ramen Seas,4
+60,San Jose,Uzumakiya Udon,4
+61,San Jose,Dan Izakaya Restaurant,4
+62,San Jose,Orenchi Ramen,4
+63,San Jose,Yugo Ramen,4
+64,San Jose,SEIKI HOUSE,4
+65,San Jose,Juban Ramen & Tapas,4
+66,San Jose,Big T’s Seafood,4
+67,Los Angeles,Ebaes on Wilshire,4
+68,Los Angeles,Hakata Ikkousha,4
+69,Los Angeles,Slurpin?Ramen Bar,4.5
+70,Los Angeles,Iki ramen,4.5
+71,Los Angeles,Daikokuya Little Tokyo,4
+72,Los Angeles,Tatsu Ramen,4
+73,Los Angeles,Hokkaido Ramen Santouka,4.5
+74,Los Angeles,Silverlake Ramen,4
+75,Los Angeles,Shin-Sen-Gumi Hakata Ramen - Little Tokyo,4
+76,Los Angeles,Tsujita LA Artisan Noodle,4
+77,Los Angeles,Momota Ramen House,3.5
+78,Los Angeles,Okiboru House of Tsukemen,4.5
+79,Los Angeles,The Ramen Joint,4.5
+80,Los Angeles,Tsujita & Co Noodle Production,3.5
+81,Los Angeles,Men Oh Tokushima Ramen,4
+82,Los Angeles,Ramen KenJo,4
+83,Los Angeles,Tatsu Ramen,4
+84,Los Angeles,Daikokuya Sawtelle,4
+85,Los Angeles,Kai Ramen,4.5
+86,Los Angeles,Ramen of York,4
+87,Los Angeles,Shin-Sen-Gumi Hakata Ramen - West L.A.,4
+88,Los Angeles,Menya Musashi LA,4
+89,Los Angeles,La Brea Ramen Bar,4
+90,Los Angeles,Fukurou Ramen,4
+91,Los Angeles,Tengoku Ramen Bar,4.5
+92,Los Angeles,Ramen Hood,4.5
+93,Los Angeles,Kotoya Ramen,4
+94,Los Angeles,Tsujita LA Artisan Noodle Annex,4
+95,Los Angeles,JINYA Ramen Bar,4
+96,Los Angeles,Chibiscus Asian Cafe,4.5
+97,Los Angeles,Hakata Ikkousha,4
+98,Los Angeles,Ten Ramen,4
+99,Los Angeles,JINYA Ramen Bar,4
+100,Los Angeles,Ebaes on Wilshire,4
+101,Los Angeles,Hakata Ikkousha,4
+102,Los Angeles,Slurpin?Ramen Bar,4.5
+103,Los Angeles,Iki ramen,4.5
+104,Los Angeles,Daikokuya Little Tokyo,4
+105,Los Angeles,Tatsu Ramen,4
+106,Los Angeles,Hokkaido Ramen Santouka,4.5
+107,Los Angeles,Silverlake Ramen,4
+108,Los Angeles,Shin-Sen-Gumi Hakata Ramen - Little Tokyo,4
+109,Los Angeles,Tsujita LA Artisan Noodle,4
+110,Los Angeles,Momota Ramen House,3.5
+111,Los Angeles,Okiboru House of Tsukemen,4.5
+112,Los Angeles,The Ramen Joint,4.5
+113,Los Angeles,Tsujita & Co Noodle Production,3.5
+114,Los Angeles,Men Oh Tokushima Ramen,4
+115,Los Angeles,Ramen KenJo,4
+116,Los Angeles,Tatsu Ramen,4
+117,Los Angeles,Daikokuya Sawtelle,4
+118,Los Angeles,Kai Ramen,4.5
+119,Los Angeles,Ramen of York,4
+120,Los Angeles,Shin-Sen-Gumi Hakata Ramen - West L.A.,4
+121,Los Angeles,Menya Musashi LA,4
+122,Los Angeles,La Brea Ramen Bar,4
+123,Los Angeles,Fukurou Ramen,4
+124,Los Angeles,Tengoku Ramen Bar,4.5
+125,Los Angeles,Ramen Hood,4.5
+126,Los Angeles,Kotoya Ramen,4
+127,Los Angeles,Tsujita LA Artisan Noodle Annex,4
+128,Los Angeles,JINYA Ramen Bar,4
+129,Los Angeles,Chibiscus Asian Cafe,4.5
+130,Los Angeles,Hakata Ikkousha,4
+131,Los Angeles,Ten Ramen,4
+132,Los Angeles,JINYA Ramen Bar,4
+133,San Diego,BESHOCK Ramen,4.5
+134,San Diego,Ajisen Ramen,4
+135,San Diego,RakiRaki Ramen & Tsukemen,4
+136,San Diego,Tajima Ramen House,4
+137,San Diego,Menya Ultra,4
+138,San Diego,Kimae Ramen,3.5
+139,San Diego,Ramen Ryoma,4
+140,San Diego,Menya Ultra,4
+141,San Diego,KARAMI Ramen,4
+142,San Diego,Nishiki Ramen,4
+143,San Diego,Yakyudori,4
+144,San Diego,Tajima Ramen Hillcrest,4
+145,San Diego,BESHOCK Ramen,4.5
+146,San Diego,Ramen Ryoma,4
+147,San Diego,Underbelly,4
+148,San Diego,Hokkaido Ramen Santouka,4
+149,San Diego,Ajisen Ramen,4
+150,San Diego,Hachi Ramen,4.5
+151,San Diego,Tajima Izakaya,4
+152,San Diego,Rakitori Japanese Pub & Grill,4
+153,San Diego,Tajima Ramen East Village,4
+154,San Diego,Nozaru Ramen Bar,4
+155,San Diego,Manten Ramen,4.5
+156,San Diego,Harumama,4
+157,San Diego,Tajima Ramen North Park,3.5
+158,San Diego,Underbelly,3.5
+159,San Diego,RakiRaki Ramen & Tsukemen,3.5
+160,San Diego,Donburi Kitchen,4.5
+161,San Diego,Minato 3 Ramen & Sushi,4
+162,San Diego,Gazua Sushi and Dining Pub,4
+163,San Diego,Mada-Sao <U+4E70><U+6C70><U+70E7> / <U+9A6C><U+5927><U+5AC2>,4
+164,San Diego,Teriyaki Sun,4.5
+165,San Diego,Nishiki Ramen,4
+166,San Diego,BESHOCK Ramen,4.5
+167,San Diego,Ajisen Ramen,4
+168,San Diego,RakiRaki Ramen & Tsukemen,4
+169,San Diego,Tajima Ramen House,4
+170,San Diego,Menya Ultra,4
+171,San Diego,Kimae Ramen,3.5
+172,San Diego,Ramen Ryoma,4
+173,San Diego,Menya Ultra,4
+174,San Diego,KARAMI Ramen,4
+175,San Diego,Nishiki Ramen,4
+176,San Diego,Yakyudori,4
+177,San Diego,Tajima Ramen Hillcrest,4
+178,San Diego,BESHOCK Ramen,4.5
+179,San Diego,Ramen Ryoma,4
+180,San Diego,Underbelly,4
+181,San Diego,Hokkaido Ramen Santouka,4
+182,San Diego,Ajisen Ramen,4
+183,San Diego,Hachi Ramen,4.5
+184,San Diego,Tajima Izakaya,4
+185,San Diego,Rakitori Japanese Pub & Grill,4
+186,San Diego,Tajima Ramen East Village,4
+187,San Diego,Nozaru Ramen Bar,4
+188,San Diego,Manten Ramen,4.5
+189,San Diego,Harumama,4
+190,San Diego,Tajima Ramen North Park,3.5
+191,San Diego,Underbelly,3.5
+192,San Diego,RakiRaki Ramen & Tsukemen,3.5
+193,San Diego,Donburi Kitchen,4.5
+194,San Diego,Minato 3 Ramen & Sushi,4
+195,San Diego,Gazua Sushi and Dining Pub,4
+196,San Diego,Mada-Sao <U+4E70><U+6C70><U+70E7> / <U+9A6C><U+5927><U+5AC2>,4
+197,San Diego,Teriyaki Sun,4.5
+198,San Diego,Nishiki Ramen,4
