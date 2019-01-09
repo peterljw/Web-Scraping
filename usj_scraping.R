@@ -40,8 +40,10 @@ driver$server$stop()
 #Import required libraries
 library(rvest)
 library(dplyr)
+library(imager)
+library(magick)
 
-url <- html('http://usjus.org/programs/')
+url <- read_html('http://usjus.org/programs/')
 
 #Retrieve course titles
 title <- url %>%
@@ -58,10 +60,26 @@ price <- url %>%
 price <- price[c(seq(2, length(price), 2))]
 
 images <- url %>%
-  
-course_info <- data.frame(cbind(title,price))
-course_info
+  html_nodes(".default-block_2") %>%
+  html_nodes("img") %>%
+  html_attr('src')
 
-#Shut down the browser and the server
-remDr$close()
-driver$server$stop()
+pic <- list()
+for(i in 1:length(images)){
+  url <- images[[i]]
+  pic[[i]] <- load.image(url)
+}
+  
+course_info <- data.frame(cbind("Course Title"=title,"Price"=price,"Image URL"=images))
+write.csv(course_info, file = "USJ Course Info.csv")
+
+#Saving the output to a SQL server
+# library(RODBC)
+# connection <- odbcDriverConnect(
+#   driver = {server} 
+#   server = name
+#   database = name
+#   trusted_connection = true;
+# )
+# sqlSave(connection, course_info, tablename = "USJ Courses", rownames = F)
+# odbcClose(connection)
