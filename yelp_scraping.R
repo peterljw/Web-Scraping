@@ -52,7 +52,7 @@ scrape_yelp <- function(food, location, page_number, remDr){
   
   info_d <- data.frame()
   for(i in 1:page_number){
-    Sys.sleep(5)
+    Sys.sleep(6)
     d <- get_info(hlink)
     info_d <- rbind(info_d, d)
     hlink <- next_page(remDr)
@@ -70,13 +70,18 @@ for(place in locations){
 
 #Visualization of ratings across the three cities
 library(ggplot2)
+SJ_name <- info_list[[1]][,1]
 SJ_rating <- info_list[[1]]$rating
-SJ <- data.frame("City"= rep("San Jose", length(SJ_rating)), "Rating" = SJ_rating)
+SJ <- data.frame("City"= rep("San Jose", length(SJ_rating)), "Name" = SJ_name, "Rating" = SJ_rating)
+LA_name <- info_list[[2]][,1]
 LA_rating <- info_list[[2]]$rating
-LA <- data.frame("City"= rep("Los Angeles", length(LA_rating)), "Rating" = LA_rating)
+LA <- data.frame("City"= rep("Los Angeles", length(LA_rating)), "Name" = LA_name, "Rating" = LA_rating)
+SD_name <- info_list[[3]][,1]
 SD_rating <- info_list[[3]]$rating
-SD <- data.frame("City"= rep("San Diego", length(SD_rating)), "Rating" = SD_rating)
+SD <- data.frame("City"= rep("San Diego", length(SD_rating)), "Name" = SD_name, "Rating" = SD_rating)
 df <- rbind(SJ,LA,SD)
+write.csv(df, file = "Yelp_Ramen.csv")
+
 ggplot(df, aes(x=Rating, fill=City)) +
   geom_histogram(binwidth=0.15, position="dodge")
 
